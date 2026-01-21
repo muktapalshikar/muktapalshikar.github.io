@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mukta Palshikar"
 title_separator          : "-"
 name                     : &name "Mukta Palshikar"
-description              : &description "Postdoctoral fellow in the Korsunsky Lab at Harvard Medical School"
+description              : &description "Research Scientist in the Helikar Lab at the University of Nebraska"
 url                      : https://muktapalshikar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muktapalshikar/muktapalshikar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mukta G. Palshikar"
   avatar           : "IMG_0202.jpeg"
-  bio              : "Postdoctoral fellow in the Korsunsky Lab at Harvard Medical School and Brigham and Women's Hospital. Research interests: systems biology, network science, inflammation, autoimmunity, multiomics"
+  bio              : "Research Scientist in the Helikar Lab at the University of Nebraska. Location: Boston, MA. Research interests: systems biology, network science, inflammation, autoimmunity, multiomics"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar"
