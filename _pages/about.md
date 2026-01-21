@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist in (Dr Tomas Helikar's lab)[https://biochem.unl.edu/person/tomas-helikar/] at the University of Nebraska, Lincoln. My research interests include developing computational methods which exploit multi-omics datasets to learn the mechanisms of inflammatory and autoimmune disease.  
+I am a research scientist in [Dr Tomas Helikar's lab](https://biochem.unl.edu/person/tomas-helikar/) at the University of Nebraska, Lincoln. My research interests include developing computational methods which exploit multi-omics datasets to learn the mechanisms of inflammatory and autoimmune disease.  
 
 From Feb 2022 - Dec 2025, I was a postdoctoral research fellow in [Dr Ilya Korsunsky's lab](https://www.korsunskylab.org/) at Harvard Medical School and Brigham and Women’s Hospital. As my primary project, I led spatial analysis of the tumor microenvironment in human colorectal cancer to identify and characterize anti-tumor immunity hubs.
 
