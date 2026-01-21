@@ -16,7 +16,7 @@ From Aug 2017- Jan 2023, I worked on my PhD in Biophysics with [Dr Juilee Thakar
 
 I enjoy designing and building open-source software for an audience of both wet & dry lab biologists. I also enjoy mentoring undergraduate students in a laboratory setting, and teaching bioinformatics at the graduate level.
 
-In my spare time, I enjoy cooking, hiking, listening to and playing classical music, reading, art, and exploring the beautiful Massachusetts countryside. 
+In my spare time, I enjoy cooking, listening to and playing classical music, reading, art, and exploring the beautiful Massachusetts countryside. 
 
 # Links
 
