@@ -12,7 +12,7 @@ redirect_from:
 **GitHub: [Mukta Palshikar](https://github.com/muktapalshikar)**<br>
 **Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)**<br>
 
-<span style="color:#154360">Education and Training</span>
+<span style="color:#154360">Research Experience</span>
 ======
 * **Research Scientist (Jan 2026 - present)**
   - University of Nebraska, Lincoln (working remotely from Boston, MA).
