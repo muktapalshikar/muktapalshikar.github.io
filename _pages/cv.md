@@ -12,16 +12,32 @@ redirect_from:
 **GitHub: [Mukta Palshikar](https://github.com/muktapalshikar)**<br>
 **Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)**<br>
 
+<span style="color:#154360">Summary</span>
+I am a PhD-level computational biologist, most recently a postdoctoral research fellow at Brigham and Women's Hospital. I specialize in the analysis of transcriptomic data (bulk and single-cell RNA-seq, spatial data), and multi-omics data integration. My scientific interests include immuno-oncology, autoimmune disease, and viral disease. My primary coding languages are R and Python. I enjoy collaborating with experimental biologists and physicians, and communicating my science.
+
 <span style="color:#154360">Research Experience</span>
 ======
 * **Research Scientist (Jan 2026 - present)**
-  - University of Nebraska, Lincoln (working remotely from Boston, MA).
+  - Digital Twin Innovation Hub @ University of Nebraska-Lincoln (working remotely from Boston, MA).
   - Advisor: Tomas Helikar, PhD
-  - Research focus: Developing computational approaches to the analysis of signaling networks, using integrated multi-omics datasets
+  - Transitioned academic research methodologies into scalable analytical workflows for a newly formed spin-off venture.
+  - Designed and implemented computational pipelines for the logical modeling of immune networks to identify therapeutic targets in autoimmune kidney disease
+
 * **Post-doctoral research fellow (Feb 2023 - Dec 2025)**
   - Harvard Medical School; Brigham and Women's Hospital, Boston, MA
   - Advisor: Ilya Korsunsky, PhD
-  - Research focus: Spatial omics analysis and methods development to characterize cellular interactions in colorectal cancer and in interstitial lung disease. 
+  - Led cross-functional spatial analysis of the tumor microenvironment in human colorectal cancer with the Broad Institute and MGH, characterizing anti-tumor immunity hubs and T-cell exhaustion.
+  - Developed a comprehensive spatial atlas of interstitial lung disease, integrating multi-modal data to map cellular and molecular architecture.
+  - Developed and optimized computational pipelines to translate tissue morphology and cellular phenotypes from clinical pathologists into quantitative features for analysis.
+  - Analyzed and integrated data from multiple spatial transcriptomics platforms (Visium, MERFISH, Xenium) and single-cell RNA-sequencing (scRNA-seq).
+
+Developed a novel computational framework to construct executable models of cell signaling pathways directly from multi-omics data.
+
+Integrated phosphoproteomic, transcriptomic, and proteomic datasets to build context-specific models that predict signaling dynamics and pathway activity.
+
+Applied these models to investigate dysregulated immune signaling in human diseases, including HIV-associated atherosclerosis (cardiometabolic disease) and B-cell malignancies.
+
+Authored and maintained open-source Python packages to make modeling workflows accessible to the broader research community.
 
 <span style="color:#154360">Education and Training</span>
 ======
