@@ -33,56 +33,51 @@ I am a PhD-level computational biologist, most recently a postdoctoral research 
 
 * **Doctoral Researcher (Aug 2017 - Jan 2023)**
   - University of Rochester, Rochester NY
-  - Advisor: Juilee THakar, PhD
+  - Advisor: Juilee Thakar, PhD
   - Developed a novel computational framework to construct executable models of cell signaling pathways directly from multi-omics data.
   - Integrated phosphoproteomic, transcriptomic, and proteomic datasets to build context-specific models that predict signaling dynamics and pathway activity.
   - Applied these models to investigate dysregulated immune signaling in human diseases, including HIV-associated atherosclerosis (cardiometabolic disease) and B-cell malignancies.
   - Authored and maintained open-source Python packages to make modeling workflows accessible to the broader research community.
 
-<span style="color:#154360">Education and Training</span>
+<span style="color:#154360">Education</span>
 ======
 
-* **PhD, Biophysics (Aug 2017 - Jan 2023)**
-  - University of Rochester, NY
-  - Advisor: Juilee Thakar, PhD
-  - Dissertation: Executable models of signaling pathways built using omics data
-* **Master of Science, Biophysics (2020)**
-  - University of Rochester, NY
+**University of Rochester** | *Rochester, NY*
+- Doctor of Philosophy, Biophysics | *2017 – 2023*
+- Master of Science, Biophysics | *2017 – 2020*
+- Dissertation: Executable models of signaling pathways built using omics data
 
-<!--  * **Master of Science, Bioinformatics (2015 - 2017)**
-  - Savitribai Phule Pune University Pune, India
-  - Advisor: Urmila Kulkarni-Kale, PhD & Mohan Kale, PhD
-  - Thesis: Evaluation of Algorithms to Infer Boolean Networks From Time Series Data
-* **Bachelor of Science, Microbiology & Chemistry 2011 - 2014**
-  - Savitribai Phule Pune University Pune, India -->
+**Savitribai Phule Pune University** | *Pune, India*
+- Master of Science, Bioinformatics | *2015 – 2017*
+- Bachelor of Science, Microbiology & Chemistry | *2011 – 2014*
 
-<span style="color:#154360">Publications and Conference Presentations</span>
+<span style="color:#154360">Publications & Presentations</span>
 ======
 
-Preprints & In Preparation
-------
-1. Chen JH\*, **Palshikar MG\***, Chen H\*, ..., Hacohen N, Korsunsky I, Pelka K. Spatial analysis of human colorectal cancer identifies anti-tumor immunity hubs at epithelial/stromal interface as site enriched for effector and exhausted T cells. *In preparation*.
-2. Tran M*, Gao C*, **Palshikar MG***, ..., Kim E, Wei K, Korsunsky I. Spatial Reconstruction of Interstitial Lung Disease. *In preparation*.
-3. Reshef Y, Sood L, ..., **Palshikar MG**, ..., Jonsson AH, Korsunsky I, Raychaudhuri S. Powerful and accurate case-control analysis of spatial molecular data with deep learning-defined tissue microniches. *bioRxiv.* 2024; doi:10.1101/2024.02.07.537149. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.07.537149v2)
+*\* indicates co-first authorship*
 
-Published 
-------
-1. Millard N, Chen JH, **Palshikar MG**, ..., He J, Wei K, Korsunsky I. Batch correcting single-cell spatial transcriptomics count data with Crescendo improves visualization and detection of spatial gene patterns. *Genome Biol.* 2025;26(1):36. [[DOI]](https://doi.org/10.1186/s13059-025-03479-9)
-2. Bolton C, Mahony CB, ..., Garnett J, Raychaudhuri S, Frank MM. Synovial tissue atlas in juvenile idiopathic arthritis reveals pathogenic niches associated with disease severity. *Sci Transl Med.* 2024 Jan 10;16(729):eadt6050. [[PMID:38198634]](https://pubmed.ncbi.nlm.nih.gov/38198634/)
-3. Kassis G*, **Palshikar MG***, Hilchey SP, Zand MS, Thakar J. Discrete-state models identify pathway specific B cell states across diseases and infections at single-cell resolution. *J Theor Biol.* 2024 Feb 28;583:111769. [[PMID:38241981]](https://pubmed.ncbi.nlm.nih.gov/38241981/)
-4. **Palshikar MG**, Min X, Crystal A, Alexeyenko A, Thakar J. Executable Network Models of Integrated Multiomics Data. *J Proteome Res.* 2023 May 5;22(5):1841-1854. [[PMID:37071060]](https://pubmed.ncbi.nlm.nih.gov/37071060/)
-5. **Palshikar MG**, Palli R, ..., Looney RJ, Zand MS, Thakar J. Executable models of immune signaling pathways in HIV-associated atherosclerosis. *npj Syst Biol Appl.* 2022 Sep 21;8(1):35. [[PMID:36131068]](https://pubmed.ncbi.nlm.nih.gov/36131068/)
-6. Hilchey SP*, **Palshikar MG***, ..., Bernstein SH, Zand MS, Thakar J. Cyclosporine A Modulates LSP1 Protein Levels in Human B Cells to Attenuate B Cell Migration at Low O₂ Levels. *Life (Basel).* 2022 Aug 12;12(8):1249. [[PMID:36013463]](https://pubmed.ncbi.nlm.nih.gov/36013463/)
-7. **Palshikar MG**, Hilchey SP, Zand MS, Thakar J. WikiNetworks: translating manually created biological pathways for topological analysis. *Bioinformatics.* 2022 Feb 1;38(3):869-871. [[PMID:34636843]](https://pubmed.ncbi.nlm.nih.gov/34636843/)
-8. Hilchey SP, **Palshikar MG**, ..., Elliott MR, Zand MS, Thakar J. Cyclosporine A Directly Affects Human and Mouse B cell Migration in vitro by Disrupting a HIF1α-Dependent, O₂ Sensing, Molecular Switch. *BMC Immunol.* 2020 Mar 18;21(1):14. [[PMID:32188448]](https://pubmed.ncbi.nlm.nih.gov/32188448/)
-9. Palli R, **Palshikar MG**, Thakar J. Executable pathway analysis using ensemble discrete-state modeling for large-scale data. *PLoS Comput Biol.* 2019 Sep 12;15(9):e1007317. [[PMID:31513579]](https://pubmed.ncbi.nlm.nih.gov/31513579/)
+**Preprints & In Preparation**
+1. Chen JH*, Chen H*, **<u>Palshikar MG</u>***, Spurrell M, Demaray J, ..., Hacohen N, Korsunsky I, Pelka K. Spatial analysis of human colorectal cancer identifies anti-tumor immunity hubs at epithelial/stromal interface as site enriched for effector and exhausted T cells. *Under review*.
+2. Tran M*, Gao C*, **<u>Palshikar MG</u>***, ..., Kim E, Wei K, Korsunsky I. Spatial Reconstruction of Interstitial Lung Disease. *In preparation*.
+3. Reshef Y, Sood L, ..., **<u>Palshikar MG</u>**, ... Korsunsky I, Raychaudhuri S. Powerful and accurate case-control analysis of spatial molecular data with deep learning-defined tissue microniches. *bioRxiv.* 2024; doi:10.1101/2024.02.07.537149. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.07.537149v2)
 
-Conference Presentations
-------
-* **Palshikar MG**, Spurrell M, Demaray J, ..., Hacohen N, Chen JH, Korsunsky I. Abstract 5492: Spatial organization and cellular composition of immunity hubs in human colorectal cancer. *Cancer Res.* 2024; 84 (6 Supplement):5492.
-* ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune signaling dysregulations in people living with HIV and atherosclerosis American Society for Microbiology (ASM) Eastern New York Fall Symposium, October 1, 2021. American Society for Microbiology (ASM).
-* ***Palshikar, M.G.*** WikiNetworks: translating manually created biological pathways for topological analysis. Computational Modeling in Biology Network (COMBINE), October 11-15, 2021.
-* ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society for Computational Biology.
+**Published**
+1. Millard N, Chen JH, **<u>Palshikar MG</u>**, ..., He J, Wei K, Korsunsky I. Batch correcting single-cell spatial transcriptomics count data with Crescendo improves visualization and detection of spatial gene patterns. *Genome Biol.* 2025 Feb 25;26(1):36. [[PMID:40001084]](https://pubmed.ncbi.nlm.nih.gov/40001084/)
+2. Bolton C, Mahony CB, ...**<u>Palshikar MG</u>**, Garnett J, Raychaudhuri S, Frank MM. Synovial tissue atlas in juvenile idiopathic arthritis reveals pathogenic niches associated with disease severity. *Sci Transl Med.* 2025 Jul 2;17(805):eadt6050. [[PMID:40601776]](https://pubmed.ncbi.nlm.nih.gov/40601776/)
+3. Kassis G*, **<u>Palshikar MG</u>***, Hilchey SP, Zand MS, Thakar J. Discrete-state models identify pathway specific B cell states across diseases and infections at single-cell resolution. *J Theor Biol.* 2024 Apr 21:583:111769. [[PMID:38423206]](https://pubmed.ncbi.nlm.nih.gov/38423206/)
+4. **<u>Palshikar MG</u>**, Min X, Crystal A, Thakar J. Executable Network Models of Integrated Multiomics Data. *J Proteome Res.* 2023 May 5;22(5):1546-1556. [[PMID:37000949]](https://pubmed.ncbi.nlm.nih.gov/37000949/)
+5. **<u>Palshikar MG</u>**, Palli R, ..., Zand MS, Thakar J. Executable models of immune signaling pathways in HIV-associated atherosclerosis. *npj Syst Biol Appl.* 2022 Sep 21;8(1):35. [[PMID:36131068]](https://pubmed.ncbi.nlm.nih.gov/36131068/)
+6. Hilchey SP*, **<u>Palshikar MG</u>***, ..., Zand MS, Thakar J. Cyclosporine A Modulates LSP1 Protein Levels in Human B Cells to Attenuate B Cell Migration at Low O2 Levels. *Life (Basel).* 2022 Aug 22;12(8):1284. [[PMID:36013463]](https://pubmed.ncbi.nlm.nih.gov/36013463/)
+7. **<u>Palshikar MG</u>**, Hilchey SP, Zand MS, Thakar J. WikiNetworks: translating manually created biological pathways for topological analysis. *Bioinformatics.* 2022 Jan 12;38(3):869-871. [[PMID:34636843]](https://pubmed.ncbi.nlm.nih.gov/34636843/)
+8. Hilchey SP, **<u>Palshikar MG</u>**, ..., Elliott MR, Zand MS, Thakar J. Cyclosporine A Directly Affects Human and Mouse B cell Migration in vitro by Disrupting a HIF1α-Dependent, O2 Sensing, Molecular Switch. *BMC Immunol.* 2020 Mar 18;21(1):13. [[PMID:32183695]](https://pubmed.ncbi.nlm.nih.gov/32183695/)
+9. Palli R, **<u>Palshikar MG</u>**, Thakar J. Executable pathway analysis using ensemble discrete-state modeling for large-scale data. *PLoS Comput Biol.* 2019 Sep 3;15(9):e1007317. [[PMID:31479446]](https://pubmed.ncbi.nlm.nih.gov/31479446/)
+
+**Conference Presentations**
+1. **<u>Palshikar MG</u>**, Spurrell M, Demaray J, ..., Hacohen N, Chen JH, Korsunsky I. Abstract 5492: Spatial organization and cellular composition of immunity hubs in human colorectal cancer. *Cancer Res.* 2024; 84 (6 Supplement):5492. *American Association for Cancer Research (AACR) Annual Meeting*, 2024.
+2. **<u>Palshikar MG</u>**. WikiNetworks: translating manually created biological pathways for topological analysis. *Computational Modeling in Biology Network (COMBINE)*, 2021.
+3. **<u>Palshikar MG</u>**. Executable models of pathways built using single-cell RNAseq data reveal immune signaling dysregulations in people living with HIV and atherosclerosis. *American Society for Microbiology (ASM) Eastern New York Fall Symposium*, 2021.
+4. **<u>Palshikar MG</u>**. Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. *Conference on Intelligent Systems for Molecular Biology (ISMB)*, 2020.
+
 
 <span style="color:#154360">Teaching and Mentoring</span>
 ======
