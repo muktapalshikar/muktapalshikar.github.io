@@ -20,10 +20,6 @@ In my spare time, I enjoy cooking, listening to and playing classical music, rea
 
 # Links
 
-* Harvard Catalyst: [https://connects.catalyst.harvard.edu/Profiles/display/Person/212701](https://connects.catalyst.harvard.edu/Profiles/display/Person/212701)
-
-* Projects that I worked on in grad school: [https://muktapalshikar.github.io/projects/](https://muktapalshikar.github.io/projects/)
-
-* Software: [https://muktapalshikar.github.io/software/](https://muktapalshikar.github.io/software/)
+* Projects that I've worked on: [https://muktapalshikar.github.io/projects/](https://muktapalshikar.github.io/projects/)
 
 * My CV: [https://muktapalshikar.github.io/cv/](https://muktapalshikar.github.io/cv/)
