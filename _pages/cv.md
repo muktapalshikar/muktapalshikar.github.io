@@ -31,13 +31,11 @@ I am a PhD-level computational biologist, most recently a postdoctoral research 
   - Developed and optimized computational pipelines to translate tissue morphology and cellular phenotypes from clinical pathologists into quantitative features for analysis.
   - Analyzed and integrated data from multiple spatial transcriptomics platforms (Visium, MERFISH, Xenium) and single-cell RNA-sequencing (scRNA-seq).
 
-Developed a novel computational framework to construct executable models of cell signaling pathways directly from multi-omics data.
-
-Integrated phosphoproteomic, transcriptomic, and proteomic datasets to build context-specific models that predict signaling dynamics and pathway activity.
-
-Applied these models to investigate dysregulated immune signaling in human diseases, including HIV-associated atherosclerosis (cardiometabolic disease) and B-cell malignancies.
-
-Authored and maintained open-source Python packages to make modeling workflows accessible to the broader research community.
+* **Doctoral Researcher (Aug 2017 - Jan 2023)**
+  - Developed a novel computational framework to construct executable models of cell signaling pathways directly from multi-omics data.
+  - Integrated phosphoproteomic, transcriptomic, and proteomic datasets to build context-specific models that predict signaling dynamics and pathway activity.
+  - Applied these models to investigate dysregulated immune signaling in human diseases, including HIV-associated atherosclerosis (cardiometabolic disease) and B-cell malignancies.
+  - Authored and maintained open-source Python packages to make modeling workflows accessible to the broader research community.
 
 <span style="color:#154360">Education and Training</span>
 ======
