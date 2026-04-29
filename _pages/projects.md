@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Spatial analysis of human colorectal tumors reveals organized immune hubs at the stromal/epithelial interface
+
+GitHub repository: [https://github.com/muktapalshikar/crcmanuscript2025](https://github.com/muktapalshikar/crcmanuscript2025)
+
+- Manuscript under review - coming soon!
+
 ## scBONITA: single-cell Boolean Omics Network Invariant Time Analysis
 
 GitHub repository: [https://github.com/muktapalshikar/scBONITA](https://github.com/muktapalshikar/scBONITA)
