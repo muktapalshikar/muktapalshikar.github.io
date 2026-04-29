@@ -58,7 +58,7 @@ Bachelor of Science, Microbiology & Chemistry | *2011 – 2014*
 
 **Preprints & In Preparation**
 1. Chen JH\*, Chen H\*, **<u>Palshikar MG\*</u>**, Spurrell M, Demaray J, ..., Hacohen N, Korsunsky I, Pelka K. Spatial analysis of human colorectal cancer identifies anti-tumor immunity hubs at epithelial/stromal interface as site enriched for effector and exhausted T cells. *Under review*.
-2. Tran M*, Gao C*, **<u>Palshikar MG</u>**, ..., Kim E, Wei K, Korsunsky I. Spatial Reconstruction of Interstitial Lung Disease. *In preparation*.
+2. Tran M, Gao C, **<u>Palshikar MG</u>**, ..., Kim E, Wei K, Korsunsky I. Spatial Reconstruction of Interstitial Lung Disease. *In preparation*.
 3. Reshef Y, Sood L, ..., **<u>Palshikar MG</u>**, ... Korsunsky I, Raychaudhuri S. Powerful and accurate case-control analysis of spatial molecular data with deep learning-defined tissue microniches. *bioRxiv.* 2024; doi:10.1101/2024.02.07.537149. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.07.537149v2)
 
 **Published**
