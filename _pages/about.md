@@ -23,5 +23,5 @@ In my spare time, I enjoy cooking, listening to and playing classical music, rea
 # Links
 
 * [Projects that I've worked on](https://muktapalshikar.github.io/projects/) and [a list of my publications](https://muktapalshikar.github.io/publications/)
-
 * [My CV](https://muktapalshikar.github.io/cv/)
+* [GitHub](https://github.com/muktapalshikar)
