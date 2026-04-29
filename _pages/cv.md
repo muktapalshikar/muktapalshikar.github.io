@@ -32,6 +32,8 @@ I am a PhD-level computational biologist, most recently a postdoctoral research 
   - Analyzed and integrated data from multiple spatial transcriptomics platforms (Visium, MERFISH, Xenium) and single-cell RNA-sequencing (scRNA-seq).
 
 * **Doctoral Researcher (Aug 2017 - Jan 2023)**
+  - University of Rochester, Rochester NY
+  - Advisor: Juilee THakar, PhD
   - Developed a novel computational framework to construct executable models of cell signaling pathways directly from multi-omics data.
   - Integrated phosphoproteomic, transcriptomic, and proteomic datasets to build context-specific models that predict signaling dynamics and pathway activity.
   - Applied these models to investigate dysregulated immune signaling in human diseases, including HIV-associated atherosclerosis (cardiometabolic disease) and B-cell malignancies.
