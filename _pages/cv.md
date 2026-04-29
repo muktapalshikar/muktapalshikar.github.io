@@ -13,6 +13,8 @@ redirect_from:
 **Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)**<br>
 
 <span style="color:#154360">Summary</span>
+======
+
 I am a PhD-level computational biologist, most recently a postdoctoral research fellow at Brigham and Women's Hospital. I specialize in the analysis of transcriptomic data (bulk and single-cell RNA-seq, spatial data), and multi-omics data integration. My scientific interests include immuno-oncology, autoimmune disease, and viral disease. My primary coding languages are R and Python. I enjoy collaborating with experimental biologists and physicians, and communicating my science.
 
 <span style="color:#154360">Research Experience</span>
