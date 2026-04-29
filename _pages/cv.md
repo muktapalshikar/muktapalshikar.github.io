@@ -78,7 +78,7 @@ I am a PhD-level computational biologist, most recently a postdoctoral research 
 3. **<u>Palshikar MG</u>**. Executable models of pathways built using single-cell RNAseq data reveal immune signaling dysregulations in people living with HIV and atherosclerosis. *American Society for Microbiology (ASM) Eastern New York Fall Symposium*, 2021.
 4. **<u>Palshikar MG</u>**. Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. *Conference on Intelligent Systems for Molecular Biology (ISMB)*, 2020.
 
-
+<!-- 
 <span style="color:#154360">Teaching and Mentoring</span>
 ======
 
@@ -95,8 +95,21 @@ I am a PhD-level computational biologist, most recently a postdoctoral research 
   - Supervised five undergraduate students and one visiting scientist working on network-based methods to analyze large-scale
   omics data
   - Responsible for helping students design methods/algorithms and teaching coding in Python and R
-  - Guided students in preparation and presentation of research findings
+  - Guided students in preparation and presentation of research findings -->
 
+<span style="color:#154360">Technical Instruction & Mentorship</span>
+======
+
+**Graduate Student Mentor** | *2019 – 2023*
+*University of Rochester* | *Rochester, NY*
+* Mentored five undergraduate students and one visiting scientist in computational research projects involving network-based analysis of omics data.
+* Provided training in algorithm design, data analysis in Python and R, and scientific presentation skills.
+
+**Instructor & Teaching Assistant** | *2019 – 2022*
+*University of Rochester* | *Rochester, NY*
+* Instructed a graduate-level module on unsupervised machine learning for the Quantitative Biology course, including workshops in R.
+* Led weekly workshops and graded assignments for the core graduate course, Foundations in Modern Biology.
+  
 <span style="color:#154360">Honors and Awards</span>
 ======
 
