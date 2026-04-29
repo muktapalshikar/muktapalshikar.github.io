@@ -43,13 +43,13 @@ I am a PhD-level computational biologist, most recently a postdoctoral research 
 ======
 
 **University of Rochester** | *Rochester, NY*
-- Doctor of Philosophy, Biophysics | *2017 – 2023*
-- Master of Science, Biophysics | *2017 – 2020*
-- Dissertation | Executable models of signaling pathways built using omics data
+Doctor of Philosophy, Biophysics | *2017 – 2023*
+Master of Science, Biophysics | *2017 – 2020*
+Dissertation | [Executable models of signaling pathways built using omics data](https://www.proquest.com/openview/c543d378c5882607794176448468ee35/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 **Savitribai Phule Pune University** | *Pune, India*
-- Master of Science, Bioinformatics | *2015 – 2017*
-- Bachelor of Science, Microbiology & Chemistry | *2011 – 2014*
+Master of Science, Bioinformatics | *2015 – 2017*
+Bachelor of Science, Microbiology & Chemistry | *2011 – 2014*
 
 <span style="color:#154360">Publications & Presentations</span>
 ======
