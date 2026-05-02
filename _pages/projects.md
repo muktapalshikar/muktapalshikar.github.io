@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Some of Mukta's projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
