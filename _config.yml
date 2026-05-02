@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mukta Palshikar"
 title_separator          : "-"
 name                     : &name "Mukta Palshikar"
-description              : &description "Research Scientist in the Helikar Lab at the University of Nebraska"
+description              : &description "PhD Computational Biologist | U.S. Permanent Resident"
 url                      : https://muktapalshikar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muktapalshikar/muktapalshikar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mukta G. Palshikar"
   avatar           : "IMG_0202.jpeg"
-  bio              : "Location: Boston, MA. Interests: systems biology, network science, inflammation, autoimmunity, multiomics"
+  bio              : "Computational biologist interested in systems biology, network science, inflammation, autoimmunity, multiomics | U.S. Permanent Resident"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar"
