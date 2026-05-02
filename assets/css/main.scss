@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom Footer Styling */
+.page__footer {
+  background-color: #0B5336 !important; /* Deep botanical green */
+  color: #FDFBF7 !important; /* Soft off-white text for readability */
+}
+
+/* Ensure links in the footer (like the sitemap) are readable */
+.page__footer a {
+  color: #FDFBF7 !important; 
+  text-decoration: underline;
+}
+
+.page__footer a:hover {
+  color: #ffffff !important; /* Brightens slightly when hovered */
+}
+
+/* Specific targeting for the copyright text area if needed */
+.page__footer-copyright {
+  color: #FDFBF7 !important;
+}
