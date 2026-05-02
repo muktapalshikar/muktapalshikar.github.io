@@ -60,11 +60,11 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #0bc4bd;
+$primary-color              : #4A6B38; // Using Sap Green for primary accents
+$success-color              : #2b7a2b; // Darkened from #62c462
+$warning-color              : #a66200; // Darkened from #f89406
+$danger-color               : #b82a26; // Darkened from #ee5f5b
+$info-color                 : #2C6E5C; // Viridian Green - Accessible and readable
 
 /* brands */
 $behance-color              : #1769FF;
