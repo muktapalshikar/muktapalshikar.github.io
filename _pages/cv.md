@@ -17,6 +17,8 @@ redirect_from:
 
 I am a PhD-level computational biologist, most recently a postdoctoral research fellow at Brigham and Women's Hospital. I specialize in the analysis of transcriptomic data (bulk and single-cell RNA-seq, spatial data), and multi-omics data integration. My scientific interests include immuno-oncology, autoimmune disease, and viral disease. My primary coding languages are R and Python. I enjoy collaborating with experimental biologists and physicians, and communicating my science.
 
+I am a U.S permanent resident (I have a 'green card') and don't need visa sponsorship.
+
 <span style="color:#154360">Research Experience</span>
 ======
 * **Research Scientist (Jan 2026 - present)**
