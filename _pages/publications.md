@@ -62,6 +62,3 @@ async function loadPubMedData() {
 loadPubMedData();
 </script>
 {% endraw %}
-
-loadPubMedData();
-</script>
