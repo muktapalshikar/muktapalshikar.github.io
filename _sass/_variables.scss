@@ -61,10 +61,10 @@ $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
 $primary-color              : #4A6B38; // Using Sap Green for primary accents
-$success-color              : #2b7a2b; // Darkened from #62c462
-$warning-color              : #a66200; // Darkened from #f89406
-$danger-color               : #b82a26; // Darkened from #ee5f5b
-$info-color                 : #2C6E5C; // Viridian Green - Accessible and readable
+$success-color              : #2b7a2b; /* Darkened for accessibility */
+$warning-color              : #a66200; /* Darkened for accessibility */
+$danger-color               : #b82a26; /* Darkened for accessibility */
+$info-color                 : #3e6f06; /* Your new, accessible Sap Green! */
 
 /* brands */
 $behance-color              : #1769FF;
@@ -91,11 +91,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color-hover           : mix(#000, $link-color, 15%); /* Subtly darkens when hovered */
+$link-color-visited         : mix(#fff, $link-color, 15%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
 
 /*
    Breakpoints
