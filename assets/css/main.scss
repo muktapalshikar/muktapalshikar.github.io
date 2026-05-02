@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Bulletproof Footer Override */
+.page__footer,
+.page__footer footer,
+.page__footer-copyright {
+  background-color: #0B5336 !important;
+  color: #FDFBF7 !important;
+  border-top: none !important; /* Removes any default gray borders */
+}
+
+.page__footer a,
+.page__footer-copyright a {
+  color: #FDFBF7 !important;
+  text-decoration: underline !important;
+}
+
+.page__footer a:hover,
+.page__footer-copyright a:hover {
+  color: #ffffff !important;
+}
