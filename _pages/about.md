@@ -19,7 +19,7 @@ From Aug 2017- Jan 2023, I worked on my PhD in Biophysics with [Dr Juilee Thakar
 
 My research interests include developing computational methods which exploit multi-omics datasets to learn the mechanisms of inflammatory and autoimmune disease.  
 
-I live in Boston, MA. In my spare time, I enjoy cooking, going to the theater and to art museums, and spending time with family.
+In my spare time, I enjoy cooking, going to the theater and to art museums, and spending time with family.
 
 # Links
 
