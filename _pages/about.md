@@ -16,9 +16,7 @@ From Aug 2017- Jan 2023, I worked on my PhD in Biophysics with [Dr Juilee Thakar
 
 My research interests include developing computational methods which exploit multi-omics datasets to learn the mechanisms of inflammatory and autoimmune disease.  
 
-I enjoy designing and building open-source software for an audience of both wet & dry lab biologists. I also enjoy mentoring undergraduate students in a laboratory setting, and teaching bioinformatics at the graduate level.
-
-In my spare time, I enjoy cooking, listening to and playing classical music, reading, art, and exploring the beautiful Massachusetts countryside. 
+In my spare time, I enjoy cooking, going to the theater and to art museums, and spending time with family.
 
 # Links
 
