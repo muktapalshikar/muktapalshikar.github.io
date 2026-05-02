@@ -18,7 +18,7 @@ redirect_from:
   *Under review*
 
 * **Spatial Reconstruction of Interstitial Lung Disease**<br>
-  Tran M\*, Gao C\*, **Palshikar MG**, ..., Kim E, Wei K, Korsunsky I.<br>
+  Tran M, Gao C, **Palshikar MG**, ..., Kim E, Wei K, Korsunsky I.<br>
   *In preparation*
 
 * **[Powerful and accurate case-control analysis of spatial molecular data with deep learning-defined tissue microniches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11839118/)**<br>
