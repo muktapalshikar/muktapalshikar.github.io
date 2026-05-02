@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! &#128075;
 
-I am a Boston-based computational biologist specializing in the integration of complex multi-omics datasets to drive therapeutic target discovery.
+I am a Boston-based computational biologist specializing in the integration of complex multi-omics datasets to drive therapeutic target discovery. I am a U.S. permanent resident.
 
 Most recently, I worked as a Research Scientist for the Digital Twin Innovation Hub ([Dr Tomas Helikar's lab](https://digitaltwininnovationhub.org/)) at the University of Nebraska, Lincoln. I designed computational pipelines for the logical modeling of immune signaling networks to prioritize therapeutic targets in kidney disease.
 
