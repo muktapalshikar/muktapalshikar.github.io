@@ -21,7 +21,7 @@ redirect_from:
   Tran M\*, Gao C\*, **Palshikar MG**\*, ..., Kim E, Wei K, Korsunsky I.<br>
   *In preparation*
 
-* **[Powerful and accurate case-control analysis of spatial molecular data with deep learning-defined tissue microniches](https://www.biorxiv.org/content/10.1101/2024.02.07.537149v2)**<br>
+* **[Powerful and accurate case-control analysis of spatial molecular data with deep learning-defined tissue microniches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11839118/)**<br>
   Reshef Y, Sood L, ..., **Palshikar MG**, ... Korsunsky I, Raychaudhuri S.<br>
   *bioRxiv* (2024)
 
