@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mukta G. Palshikar"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
