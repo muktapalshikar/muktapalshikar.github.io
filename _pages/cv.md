@@ -15,9 +15,12 @@ redirect_from:
 <span style="color:#154360">Summary</span>
 ======
 
-I am a PhD-level computational biologist, most recently a postdoctoral research fellow at Brigham and Women's Hospital. I specialize in the analysis of transcriptomic data (bulk and single-cell RNA-seq, spatial data), and multi-omics data integration. My scientific interests include immuno-oncology, autoimmune disease, and viral disease. My primary coding languages are R and Python. I enjoy collaborating with experimental biologists and physicians, and communicating my science.
+- I am a PhD-level computational biologist, specializing in the end-to-end analysis and integration of bulk/single-cell/spatial transcriptomics and proteomics data, from QC and initial processing up to the biological interpretation.
+- My postdoctoral work in Ilya Korsunsky's lab at Brigham and Women's Hospital focused on building multi-modal spatial atlases in the contexts of colorectal cancer and interstitial lung disease. I gained extensive experience in spatial statistics, and analyzing spatial transcriptomic data from Xenium, Visium, and MERFISH, and histopathological images.
+- My graduate work in Juilee Thakar's lab at the University of Rochester focused on building tools to learn and simulate immune signaling network models using multiple layers of omics data - bulk and single-cell RNA-seq, proteomics, and phosphoproteomics - in the contexts of HIV and atherosclerosis. I gained extensive experience in pathway and network analysis.
+- I am proficient in Python and R, with exposure to machine learning for omics data.
 
-I am a U.S permanent resident (I have a 'green card') and don't need visa sponsorship.
+*I am a U.S permanent resident (I have a 'green card') and don't need visa sponsorship.*
 
 <span style="color:#154360">Research Experience</span>
 ======
