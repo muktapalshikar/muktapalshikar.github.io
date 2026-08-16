@@ -11,7 +11,7 @@ Hi there! &#128075;
 
 I am a Boston-based computational biologist specializing in the integration of complex multi-omics datasets to drive therapeutic target discovery. I am a U.S. permanent resident.
 
-Since January 2026, I am a Research Scientist at the Digital Twin Innovation Hub ([Dr Tomas Helikar's lab](https://digitaltwininnovationhub.org/)) at the University of Nebraska, Lincoln. I design computational pipelines for the logical modeling of immune signaling networks to prioritize therapeutic targets in kidney disease.
+Since January 2026, I am a Research Scientist at the Digital Twin Innovation Hub ([Dr Tomas Helikar's lab](https://digitaltwininnovationhub.org/)) at the University of Nebraska, Lincoln. I design computational pipelines for the logical modeling of immune signaling networks to prioritize therapeutic targets in kidney disease. I work remotely from Boston with a global team.
 
 From Feb 2023 - Dec 2025, I was a postdoctoral research fellow in [Dr Ilya Korsunsky's lab](https://www.korsunskylab.org/) at Harvard Medical School and Brigham and Women’s Hospital. As my primary project, I led spatial analysis of the tumor microenvironment in human colorectal cancer to identify and characterize anti-tumor immunity hubs.
 
